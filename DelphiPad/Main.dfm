@@ -26,7 +26,6 @@ object MainForm: TMainForm
     Images = MainImageList
     ShowCaptions = True
     TabOrder = 1
-    ExplicitWidth = 635
     object TToolButton
       Left = 0
       Top = 0
@@ -125,8 +124,6 @@ object MainForm: TMainForm
     ParentFont = False
     TabOrder = 0
     Zoom = 100
-    ExplicitWidth = 635
-    ExplicitHeight = 263
   end
   object MainMenu: TMainMenu
     Images = MainImageList
@@ -290,7 +287,7 @@ object MainForm: TMainForm
     Left = 200
     Top = 72
     Bitmap = {
-      494C01010B0030001C0010001000FFFFFFFFFF10FFFFFFFFFFFFFFFF424D3600
+      494C01010B003000200010001000FFFFFFFFFF10FFFFFFFFFFFFFFFF424D3600
       0000000000003600000028000000400000003000000001002000000000000030
       0000000000000000000000000000000000000000000000000000000000000000
       0000000000000000000000000000000000000000000000000000000000000000

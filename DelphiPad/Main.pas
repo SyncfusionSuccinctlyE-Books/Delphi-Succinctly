@@ -74,7 +74,7 @@ end;
 
 procedure TMainForm.FileSaveAsAccept(Sender: TObject);
 begin
-  RichEdit.Lines.SaveToFile(FilleSaveAs.Dialog.FileName);
+  RichEdit.Lines.SaveToFile(FileSaveAs.Dialog.FileName);
 end;
 
 end.

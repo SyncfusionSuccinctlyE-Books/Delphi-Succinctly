@@ -1,0 +1,4 @@
+*.local
+*.identcache
+DelphiPad/__history/
+DelphiPad/Win32/
